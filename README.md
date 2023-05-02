@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Reny Kipkoech - [Github](https://github.com/Tr-reny) / [Twitter](https://twitter.com/TRipper-rey)  
+Kedishi Emmanuel - [Github](https://github.com/Kedishi) / [Twitter](https://twitter.com/Ekedishi)  
 
 Second part of Airbnb: Joann Vuong
 ## License
